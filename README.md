@@ -2,8 +2,8 @@
 
 ## Goals ⚽
 
-The aim of this repository is to provide some details of the medical data sets used in paper [1]. This article have been developed by some
-members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide some details of the medical data sets used in paper [1]. This article has been developed by some
+members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more our research 😉
 
 ## How can I download the data? ⬇
 
@@ -27,7 +27,7 @@ The following table summarizes the main characteristics of the databases, includ
 
 [2] Maldonado, S., Weber, R., & Basak, J. (2011). Simultaneous feature selection and classification using kernel-penalized support vector machines. Information Sciences, 181(1), 115-128.
 
-[3] OASYS, Medical data, Github repository (https://github.com/groupoasys/Medical_data) , 2020.
+[3] OASYS, Medical data, Github repository (https://github.com/groupoasys/Medical_data), 2020.
 
 ## How to cite the repo and the paper? 📝
 
