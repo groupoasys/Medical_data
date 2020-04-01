@@ -1,35 +1,67 @@
-# FlexAnalytics
-
-Do you want to know more about the ERC Starting Grant project FlexAnalytics of the [OASYS group](https://sites.google.com/view/groupoasys/home)? Then, you are in the right
-place 👏🎉 Please, continue reading this repo 📖 and have a look 🔍 at the webpage https://groupoasysflexanalytics.readthedocs.io/en/latest/
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoH4zee0bSD33FwAkv_eDnsjACEYI4OGZp2yi1pz_P4wXl2vdm&s" height="200" width="300"/>
+# Medical_data
 
 ## Goals ⚽
 
-This repo aims to describe the main objectives of the FlexAnalytics project. 
+The aim of this repository is to provide some details of the medical data sets used in paper [1]. This article have been developed by some
+members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
 
-The above-mentioned webpage contains a detailed description of the different works performed in the project, including (working) papers and
-conference papers, and contributions to conferences.
+## How can I download the data? ⬇
+
+Please, click at this [link](https://drive.google.com/drive/folders/1ytXwG8pbJvPD6MgFHKEZfZTh4Ix3kiBm).
+
+## Summary 🧮📊📖
+
+The following table summarizes the main characteristics of the databases, including the name, the number of individuals, the number of features, and the link where they have been downloaded:
+
+
+| Database | Number of individuals | Number of features | Source |
+| -------- | --------------------- | -------------------| ------ |
+| breast | 569 | 30 |[Link](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) |
+| colorectal | 62 | 2000 |[Link](http://genomics-pubs.princeton.edu/oncology/affydata/index.html) |
+| diabetes | 768 | 8 |[Link](https://www.kaggle.com/uciml/pima-indians-diabetes-database) |
+| lymphoma | 96 | 4026 |Authors paper [2]|
+
+## References 📚
+
+[1] Working paper. Coming soon 😅
+
+[2] Maldonado, S., Weber, R., & Basak, J. (2011). Simultaneous feature selection and classification using kernel-penalized support vector machines. Information Sciences, 181(1), 115-128.
+
+[3] OASYS, Medical data, Github repository (https://github.com/groupoasys/Medical_data) , 2020.
+
+## How to cite the repo and the paper? 📝
+
+We are just fine-tuning the last few details of the paper. We acknowledge for your patience 🥰 and hope that you can enjoy soon the new work. If you want to cite this repo [[3]](https://github.com/groupoasys/Medical_data), please use the following bib entry:
+
+* Repository:
+```
+@article{OASYS2020medical,
+author = {OASYS},
+journal = {GitHub repository (https://github.com/groupoasys/Medical{\_}data)},
+title = {{Medical Data}},
+url = {https://github.com/groupoasys/Medical{\_}data)},
+year = {2020}
+}
+```
 
 ## Do you want to contribute? 🙋‍♂️🙋‍♀️
  
  Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
- If you need extra help, you can ask Ricardo Fernández-Blanco (ricardo.fcarramolino@gmail.com) or Asunción Jiménez-Cordero(asuncionjc@uma.es).
+ If you need extra help, you can ask Salvador Pineda (spinedamorente@gmail.com), Juan Miguel Morales (juan.morales@uma.es) or Asunción Jiménez-Cordero(asuncionjc@uma.es).
  
  ## Contributors 🌬☀
  
  * [OASYS group](http://oasys.uma.es) -  groupoasys@gmail.com
  
- ## Developed by 👩‍💻👨‍💻
- * [Ricardo Fernández-Blanco](https://scholar.google.com/citations?user=lPz_uUkAAAAJ&hl=es) - ricardo.fcarramolino@gmail.com
+ ## Developed by 👨‍💻👨‍💻👩‍💻
+ * [Salvador Pineda](https://www.researchgate.net/profile/Salvador_Pineda) - spinedamorente@gmail.com
+ * [Juan Miguel Morales](https://www.researchgate.net/profile/Juan_Morales25) - juan.morales@uma.es
  * [Asunción Jiménez Cordero](https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero/research) - asuncionjc@uma.es
  
- (Please add your name here if you have contributed to the repo)
  
  ## License 📝
  
-    Copyright 2019 Optimization and Analytics for Sustainable energY Systems (OASYS)
+    Copyright 2020 Optimization and Analytics for Sustainable energY Systems (OASYS)
 
     Licensed under the GNU General Public License, Version 3 (the "License");
     you may not use this file except in compliance with the License.
