@@ -57,7 +57,7 @@ year = {2020}
 ## Do you want to contribute? 🙋‍♀️🙋‍♂️
  
  Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
- If you need extra help, you can ask Asunción Jiménez-Cordero(asuncionjc@uma.es), Juan Miguel Morales (juan.morales@uma.es) or Salvador Pineda (spinedamorente@gmail.com).
+ If you need extra help, you can ask Asunción Jiménez-Cordero (asuncionjc@uma.es), Juan Miguel Morales (juan.morales@uma.es) or Salvador Pineda (spinedamorente@gmail.com).
  
  ## Contributors 🌬☀
  
