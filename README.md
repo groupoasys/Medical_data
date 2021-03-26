@@ -2,7 +2,7 @@
 
 ## Goals ⚽
 
-The aim of this repository is to provide some details of the medical data sets used in paper [[1]](https://www.researchgate.net/publication/340826631_A_novel_embedded_min-max_approach_for_feature_selection_in_nonlinear_Support_Vector_Machine_classification). This article has been developed by some
+The aim of this repository is to provide some details of the medical data sets used in paper [[1]](https://www.sciencedirect.com/science/article/pii/S0377221720310195). This article has been developed by some
 members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more our research 😉
 
 ## How can I download the data? ⬇
@@ -23,31 +23,33 @@ The following table summarizes the main characteristics of the databases, includ
 
 ## References 📚
 
-[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2020). A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification. Submitted. Available at https://www.researchgate.net/publication/340826631_A_novel_embedded_min-max_approach_for_feature_selection_in_nonlinear_Support_Vector_Machine_classification
+[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2021). A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification. European Journal of Operational Research, 293(1), 24-35.
 
-[2] Maldonado, S., Weber, R., & Basak, J. (2011). Simultaneous feature selection and classification using kernel-penalized support vector machines. Information Sciences, 181(1), 115-128.
+[2] Maldonado, S., Weber, R., & Basak, J. (2011). Simultaneous feature selection and classification using kernel-penalized Support Vector Machines. Information Sciences, 181(1), 115-128.
 
 [3] OASYS, Medical data, Github repository (https://github.com/groupoasys/Medical_data), 2020.
 
 ## How to cite the repo and the paper? 📝
 
-If you want to cite paper [[1]](https://www.researchgate.net/publication/340826631_A_novel_embedded_min-max_approach_for_feature_selection_in_nonlinear_Support_Vector_Machine_classification) or this repo [[3]](https://github.com/groupoasys/Medical_data), please use the following bib entry:
+If you want to cite paper [[1]](https://www.sciencedirect.com/science/article/pii/S0377221720310195) or this repo [[3]](https://github.com/groupoasys/Medical_data), please use the following bib entry:
 
 * Article:
 ```
-@techreport{jimenez2020novel,
-  author = {Jim\'enez-Cordero, Asunci\'on and Morales, Juan Miguel and Pineda, Salvador},
-  title = {A novel embedded min-max approach for feature selection in nonlinear {S}upport {V}ector {M}achine classification},
-  institution = {Universidad de M\'alaga},
-  year = {2020},
-  note = {Available at \url{https://www.researchgate.net/publication/340826631_A_novel_embedded_min-max_approach_for_feature_selection_in_nonlinear_Support_Vector_Machine_classification}}
-}
+@article{jimenez2021novel,
+author={A. {Jim\'enez-Cordero}, J. M. {Morales} and S. {Pineda}},
+journal={European Journal of Operational Research},
+title={A novel embedded min-max approach for feature selection in nonlinear support vector machine classification},
+year={2021},
+issn={0377-2217}
+volume={293},
+number={1},
+pages={24-35}}
 ```
 * Repository:
 ```
 @article{OASYS2020medical,
 author = {OASYS},
-journal = {GitHub repository (https://github.com/groupoasys/Medical{\_}data)},
+journal = {GitHub repository},
 title = {{Medical Data}},
 url = {https://github.com/groupoasys/Medical{\_}data},
 year = {2020}
